@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aquib-j
-- 👀 I’m interested in ...New inovations
+- 👀 I’m interested in ...New innovations
 - 🌱 I’m currently learning ...AI & ML
 - 💞️ I’m looking to collaborate on ...Opensource Challenging Projects 
 - 📫 How to reach me ...
